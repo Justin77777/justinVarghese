@@ -1,0 +1,72 @@
+
+h1{
+  text-transform: uppercase;
+  font-family:cursive;
+}
+p{
+  size:100em;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+.Home {
+  text-align:center;
+  padding:300px; 
+  margin:0px;
+  border: 1px solid red; 
+  background-color:black;
+}
+.Home h1{
+  color:white;
+}
+.Home h2{
+  color:white;
+}
+#Projects{
+  padding:50px; 
+  margin:0px;
+  border: 1px solid red;
+  background-color:lightcoral;
+}
+.column3 {
+  margin-right: auto;
+  display: block;
+ }
+ .column4 {
+  margin-left: auto;
+  display: block;
+ }
+#About {
+  padding:300px; 
+  margin:0px;
+  border: 1px solid red;
+}
+#Work{
+  padding:300px; 
+  margin:0px;
+  border: 1px solid red;
+  background-color:lightblue;
+}
